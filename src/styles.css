@@ -1,0 +1,16 @@
+
+* {
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+.app {
+  height: 100vh;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-rows: 65px 1fr;
+}
+
+.app-content {
+  padding: 6px 12px;
+}
