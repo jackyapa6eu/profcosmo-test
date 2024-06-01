@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/profcosmo-test/static/css/main.c5d35a13.css",
+    "main.js": "/profcosmo-test/static/js/main.863dd0d9.js",
+    "static/media/sortIcon.png": "/profcosmo-test/static/media/sortIcon.b4c4aa209bc509155c12.png",
+    "index.html": "/profcosmo-test/index.html",
+    "main.c5d35a13.css.map": "/profcosmo-test/static/css/main.c5d35a13.css.map",
+    "main.863dd0d9.js.map": "/profcosmo-test/static/js/main.863dd0d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5d35a13.css",
+    "static/js/main.863dd0d9.js"
+  ]
+}
