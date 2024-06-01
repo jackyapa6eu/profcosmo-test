@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import './vendor/normalize.css';
 import './styles.css';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import { observer } from 'mobx-react';
 import authStore from './stores/AuthStore';
 import Header from './components/Header';
